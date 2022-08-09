@@ -12,7 +12,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shieldd]][license-url]
 
 <br/>
 <div align="center">
@@ -246,8 +246,8 @@ At the moment the most important difference between my implementation and NourEl
 [stars-url]: https://github.com/wowvain-dev/vain_ui/stargazers
 [issues-shield]: https://img.shields.io/github/issues/wowvain-dev/vain_ui?style=for-the-badge
 [issues-url]: https://github.com/wowvain-dev/vain_ui/issues
-[license-shield]: https://img.shields.io/github/license/wowvain-dev/vain_ui?style=for-the-badge
 [license-url]: https://github.com/wowvain-dev/vain_ui/blob/master/LICENSE.txt
+[license-shieldd]: https://img.shields.io/badge/license-MIT-purple?style=for-the-badge
 
 [Flutter]: https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white
 [flutter-url]: https://flutter.dev/
