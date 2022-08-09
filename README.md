@@ -1,15 +1,37 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<a name="readme-top"></a>
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<br/>
+<div align="center">
+  <h3 align="center">Vain UI</h3>
+  
+  <p align="center">
+    A Flutter UI library inspired from Carbon Design and easily extensible.
+  </p>
+  
+  <h4 align="center">
+    STILL WORK IN PROGRESS, BUT IT IS ALREADY FUNCTIONAL
+  </h4>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+</details>
+
+
 
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
@@ -37,3 +59,16 @@ const like = 'sample';
 TODO: Tell users more about the package: where to find more information, how to 
 contribute to the package, how to file issues, what response they can expect 
 from the package authors, and more.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/wowvain-dev/vain_ui?style=for-the-badge
+[contributors-url]: https://github.com/wowvain-dev/vain_ui/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wowvain-dev/vain_ui?style=for-the-badge
+[forks-url]: https://github.com/wowvain-dev/vain_ui/network/members
+[stars-shield]: https://img.shields.io/github/stars/wowvain-dev/vain_ui?style=for-the-badge
+[stars-url]: https://github.com/wowvain-dev/vain_ui/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wowvain-dev/vain_ui?style=for-the-badge
+[issues-url]: https://github.com/wowvain-dev/vain_ui/issues
+[license-shield]: https://img.shields.io/github/license/wowvain-dev/vain_ui?style=for-the-badge
+[license-url]: https://github.com/wowvain-dev/vain_ui/blob/master/LICENSE.txt
