@@ -23,7 +23,7 @@
   </p>
   
   <h4 align="center">
-    STILL WORK IN PROGRESS, BUT IT IS ALREADY FUNCTIONAL
+    :warning: STILL WORK IN PROGRESS, BUT IT IS ALREADY FUNCTIONAL :warning:
   </h4>
 </div>
 
